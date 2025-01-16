@@ -1,3 +1,4 @@
 this is first file in Git2
 add another line to the file 
 this is third line for checking info
+this is forth line
